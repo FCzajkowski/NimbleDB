@@ -13,5 +13,5 @@
 ------------------
 
 > [!IMPORTANT]
-> Project is still in early development, there might be some issues. If any accur, please **create new issue**
+> Project is still in early development, there might be some issues. If any accure, please **create new issue**
 
