@@ -12,7 +12,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
   - [Running the Server](#running-the-server)
@@ -43,19 +42,6 @@
 - **Authentication**: Password-based security with configurable protection
 - **Persistence**: JSON-based dump/load functionality with automatic backups
 - **Concurrent**: Built on gevent for handling thousands of concurrent connections
-
-## Features
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🚀 **High Performance** | In-memory storage with gevent concurrency | ✅ |
-| 🔐 **Authentication** | Password-based access control | ✅ |
-| 🗄️ **Multi-Database** | Multiple isolated databases (0-N) | ✅ |
-| ⏰ **TTL Support** | Automatic key expiration | ✅ |
-| 💾 **Persistence** | JSON dump/load operations | ✅ |
-| 🔄 **Auto-Dump** | Scheduled automatic backups | ✅ |
-| 📊 **Bulk Operations** | Efficient batch operations | ✅ |
-| 🌐 **Network Protocol** | TCP-based client-server communication | ✅ |
 
 ## Installation
 
