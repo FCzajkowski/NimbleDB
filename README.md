@@ -49,7 +49,7 @@
 
 ```bash
 # Install required dependencies
-pip install gevent rich
+pip install -r requirements.txt
 ```
 
 ### File Structure
