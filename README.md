@@ -9,6 +9,8 @@
 > [!IMPORTANT]
 > Project is still in early development, there might be some issues. If any accure, please **create new issue**
 
+>[!WARNING]
+> Developer team behind NimbleDB does not take any responsibility for data leak's etc.
 ## Table of Contents
 
 - [Overview](#overview)
